@@ -31,8 +31,9 @@ Imagen elegida: image1.jpeg
 Etiquetas detectadas: ['car', 'person', 'traffic light']
 
 ## Integrantes
-- Nombre 1
-- Nombre 2
+- Andrés Felipe Ariza Londoño
+- Fabian Rene Garcia Perdomo
+- Juan Diego Acosta Molina
 
 ## Lo que entregan en el fork
 taller/</br>
