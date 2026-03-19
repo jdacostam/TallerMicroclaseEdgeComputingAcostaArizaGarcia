@@ -24,7 +24,7 @@ taller/ </br>
 Cada pareja debe elegir UNA imagen de las disponibles.
 
 ### 4. Correr el código
-python detector.py imageN.jpeg/png  ← reemplaza N por el número de tu imagen
+python detector.py image7.png  ← reemplaza N por el número de tu imagen
 
 ### 5. Resultado esperado en resultados.txt
 Imagen elegida: image1.jpeg
@@ -34,6 +34,7 @@ Etiquetas detectadas: ['car', 'person', 'traffic light']
 - Andrés Felipe Ariza Londoño
 - Fabian Rene Garcia Perdomo
 - Juan Diego Acosta Molina
+(El equipo seleccionó la imagen 7)
 
 ## Lo que entregan en el fork
 taller/</br>
