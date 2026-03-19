@@ -17,7 +17,7 @@ pip install ultralytics
 
 ### 2. Estructura de carpetas
 taller/
-├── detector.py
+├── detector.py </br>
 ├── image1.jpeg / image2.jpeg / ... / image7.jpeg
 
 ### 3. Elegir una imagen para procesar
