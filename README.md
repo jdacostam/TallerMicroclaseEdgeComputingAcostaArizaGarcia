@@ -16,7 +16,7 @@ el procesamiento se realiza localmente en el vehículo aplicando Edge Computing.
 pip install ultralytics
 
 ### 2. Estructura de carpetas
-taller/
+taller/ </br>
 ├── detector.py </br>
 ├── image1.jpeg / image2.jpeg / ... / image7.jpeg
 
